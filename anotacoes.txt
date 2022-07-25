@@ -1,2 +1,6 @@
 Eluvya Teles Piauilino
+<<<<<<< HEAD
 Engenharia de Software II
+=======
+A aula sobre Git e GitHub é muito importante para a disciplina de Eng II.
+>>>>>>> feedback
