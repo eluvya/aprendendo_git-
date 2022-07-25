@@ -1,1 +1,2 @@
 Eluvya Teles Piauilino
+A aula sobre Git e GitHub é muito importante para a disciplina de Eng II.
